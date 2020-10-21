@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Constraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="log_in">Ingresar</string>
+    <string name="note_title">Titulo</string>
+    <string name="task">Tarea</string>
+    <string name="add_task">Agregar tarea</string>
+    <string name="save_changes">Guardar cambios</string>
+    <string name="default_error">Lo sentimos ha ocurrido un error, por favor intente de nuevo mas tarde</string>
+    <string name="create_user">Crear usuario</string>
+    <string name="log_out">Cerrar sesión</string>
+    <string name="delete_note">Eliminar nota</string>
+    <string name="add_note">Crear nota</string>
+    <string name="equal_passwords">Las contraseñas no coinciden</string>
+    <string name="wrong_email">Email no valido</string>
+    <string name="wrong_password_size">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="complete_fields">Por favor complete los campos</string>
+    <string name="existent_user">El usuario ya existe</string>
+    <string name="no_user">El usuario no existe</string>
+    <string name="email_or_password_incorrect">El usuario o la contraseña es incorrecto</string>
+</resources>
